@@ -1,7 +1,5 @@
 # India GDP Analysis
-
 # Problem Description - I
-
 ## NITI Aayog: Background
 
 [NITI Aayog](https://en.wikipedia.org/wiki/NITI_Aayog) (National Institution for Transforming India) is a policy think tank of the Government of India; it provides strategic inputs to the central and the state governments to achieve various development goals. In the past, NITI Aayog has played an important role in initiatives such as Digital India, Atal Innovation Mission and various agricultural reforms and have designed various policies in education, skill development, water management, healthcare, etc. 
@@ -94,17 +92,13 @@ Ask other such relevant questions, which we think are important, and note we ins
   - Finally, provide at least two recommendations for each category to improve the per capita GDP.
   
 ### Part-II: GDP and Education Dropout Rates
-
 In Part-I, we would have noticed that (one) way to increase per capita GDP is by shifting the distribution of GDP towards the secondary and tertiary sectors, i.e., the manufacturing and services industries. But these industries can thrive only when there is an availability of educated and skilled labour.
 
 In this part of the analysis, we will investigate whether there is any relationship between per capita GDP with dropout rates in education.
 
 ### Data
-
 **Data II:** This section will require the dropout rate dataset apart from the dataset that we used in Part-1 of the case study. Download instructions are provided in the next segment.
-
 **Part-II: GDP and Education**
-
 - Analyse if there is any correlation of GDP per capita with dropout rates in education (primary, upper primary and secondary) for the year 2014-2015 for each state. Choose an appropriate plot to conduct this analysis.
   - Is there any correlation between dropout rate and %contribution of each sector (Primary, Secondary and Tertiary) to the total GDP?
 - We have the total population of each state from the data in part I. Is there any correlation between dropout rates and population? What is the expected trend and what is the observation?
